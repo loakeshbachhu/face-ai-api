@@ -1,4 +1,4 @@
-# Face-AI is an application which identifies the face of the uploaded picture using Artificial Inteligence!!
+# Face-AI-API is backend API for the face-ai application. It stores the user Information for login/register/Save User profile to the postgreSQL database!!
 
 ![image](https://user-images.githubusercontent.com/70115018/114407940-8c733380-9b6e-11eb-9676-318ea0ba6595.png)
 
